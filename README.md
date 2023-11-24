@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 - I am a 3rd year Computer Engineering student @ McMaster University
-- Interested in artifical intelligence and machine learning
+- Interested in artificial intelligence and machine learning
 
 - Currently Director of Education @ McMaster Artificial Intelligence Society
 - Check out some of the cool work I do there: [MacAI](https://github.com/ConnorUsaty/MacAIEducation2023)
