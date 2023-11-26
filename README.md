@@ -1,14 +1,14 @@
 ## 👋 About Me
 
-- I am a 3rd year Computer Engineering student @ McMaster University
-- Interested in artificial intelligence and machine learning
+- :computer: I am a 3rd year Computer Engineering student @ McMaster University
+- :robot:  Interested in artificial intelligence and machine learning
 
-- Currently Director of Education @ McMaster Artificial Intelligence Society
-- Check out some of the cool work I do there: [MacAI](https://github.com/ConnorUsaty/MacAIEducation2023)
+- :man_teacher:  Currently Director of Education @ McMaster Artificial Intelligence Society
+- :bar_chart:  Check out some of the cool work I do there: [MacAI](https://github.com/ConnorUsaty/MacAIEducation2023)
 
-- Check out my personal portfolio website: [Portfolio](https://github.com/ConnorUsaty/ConnorUsaty.github.io)
-- Check out some of my favourite personal projects: [Pathfinding Algorithm Visualizer](https://github.com/ConnorUsaty/pathfinding-visualizer) & [Sudoku Solver](https://github.com/ConnorUsaty/sudoku-solver)
-- Check out some of my favourite school projects: [Pacemaker](https://github.com/Why-Bee/3k04-project-group10-2023) & [Polynomial Calculator](https://github.com/ConnorUsaty/polynomial-calculator)
+- :globe_with_meridians:  Check out my personal portfolio website: [Portfolio](https://github.com/ConnorUsaty/ConnorUsaty.github.io)
+- :pushpin:  Check out some of my favourite personal projects: [Pathfinding Algorithm Visualizer](https://github.com/ConnorUsaty/pathfinding-visualizer) & [Sudoku Solver](https://github.com/ConnorUsaty/sudoku-solver)
+- :mortar_board:  Check out some of my favourite school projects: [Pacemaker](https://github.com/Why-Bee/3k04-project-group10-2023) & [Polynomial Calculator](https://github.com/ConnorUsaty/polynomial-calculator)
 
 ## 📧 Contact Me 
 <div align="center">
