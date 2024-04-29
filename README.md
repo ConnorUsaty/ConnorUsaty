@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-- :computer: 3rd year Computer Engineering student @ McMaster University
-- :man_teacher:  Currently Director of Education @ McMaster Artificial Intelligence Society
+- :computer: Computer Engineering IV @ McMaster University
+- :man_teacher:  Director of Education @ McMaster Artificial Intelligence Society
 - :bar_chart:  Check out some of the cool work I do there: [MacAI](https://github.com/ConnorUsaty/MacAIEducation2023)
 - :globe_with_meridians:  Check out my personal portfolio website: [Portfolio](https://connorusaty.github.io/)
 
