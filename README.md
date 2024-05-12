@@ -1,8 +1,8 @@
 ## 👋 About Me
 
-- :computer: Computer Engineering IV @ McMaster University
-- :man_teacher:  Director of Education @ McMaster Artificial Intelligence Society
-- :bar_chart:  Check out some of the cool work I do there: [MacAI](https://github.com/ConnorUsaty/MacAIEducation2023)
+- :computer: Computer Engineering @ McMaster University
+- :bar_chart: BI Analyst @ MHI RJ Aviation
+- :man_teacher:  President @ McMaster Artificial Intelligence Society
 - :globe_with_meridians:  Check out my personal portfolio website: [Portfolio](https://connorusaty.github.io/)
 
 
