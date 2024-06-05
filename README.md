@@ -1,8 +1,8 @@
 ## 👋 About Me
 
-- 📈 BI Analyst @ MHI RJ Aviation
-- 🤖 President @ McMaster Artificial Intelligence Society
 - :computer: Computer Engineering @ McMaster University
+- 📈 Currently on co-opa as a BI Analyst @ MHI RJ Aviation
+- 🤖 Currently President of McMaster Artificial Intelligence Society
 - :globe_with_meridians:  Check out my personal portfolio website: [Portfolio](https://connorusaty.github.io/)
 
 
