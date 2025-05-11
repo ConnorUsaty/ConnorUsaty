@@ -1,6 +1,5 @@
 ## 👋 About Me
 
-- 📈 Data Engineer Intern @ MHI RJ Aviation
 - 🤖 President @ McMaster Artificial Intelligence Society
 - :computer: Computer Engineering @ McMaster University
 - ⚡ Very interested in quantitative finance, low-latency C++, data engineering, and machine learning
