@@ -3,7 +3,7 @@
 - 👨‍💻 Software Engineer Intern @ Pure Storage
 - 🤖 President @ McMaster Artificial Intelligence Society
 - :computer: Computer Engineering & Statistics @ McMaster University
-- ⚡ Very interested in quantitative finance, low-latency C++, concurrency, algorithms, data engineering, and machine learning
+- ⚡ Very interested in quantitative finance, low-latency C++, Linux, concurrency, operating systems, computer architecture and networking
 - :globe_with_meridians:  Check out my [Website](https://connorusaty.github.io/)
 
 
