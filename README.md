@@ -1,9 +1,9 @@
 ## 👋 About Me
 
-- 👨‍💻 Software Engineer Intern @ Pure Storage
+- 👨‍💻 Incoming @ Citadel Securities | Prev @ Pure Storage
 - 🤖 President @ McMaster Artificial Intelligence Society
 - :computer: Computer Engineering @ McMaster University
-- ⚡ Very interested in C++, Linux, concurrency, operating systems, computer architecture, and computer networking
+- ⚡ Very interested in modern C++, concurrency, operating systems, computer architecture, and computer networking
 - :globe_with_meridians:  Check out my [Website](https://connorusaty.github.io/)
 
 
